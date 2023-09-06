@@ -48,7 +48,7 @@ body {
     margin-top: 10px;
     cursor: pointer;
   }
-  
+
   .conteiner-lista {
     background-color: white;
     border: 1px solid #ccc;
@@ -64,8 +64,8 @@ body {
     border-radius: 4px;
     padding: 20px;
     width: 300px;
-    max-height: 250px; /* Establece una altura máxima */
-    overflow-y: auto; /* Utiliza scroll en lugar de auto */
+    max-height: 290px;
+    overflow-y: auto;
   }
   
   
@@ -74,9 +74,9 @@ body {
     margin-bottom: 10px;
     padding: 8px;
     background-color: #f9f9f9;
-    border: 1px solid #ccc;
+    border: 1px solid black;
     border-radius: 4px;
-    word-wrap: break-word; /* Ajusta el texto largo al ancho del contenedor */
+    word-wrap: break-word; 
   }
   
   .lista button {
